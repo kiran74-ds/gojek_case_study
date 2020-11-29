@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 + Finally train the model and get predictions
 ```
-python3  app/src/train.py
+python3  train.py
 ```
 
 ### Running the project using docker  
