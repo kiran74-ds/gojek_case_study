@@ -4,6 +4,12 @@
 
 ### This project can be run locally by following the steps:
 
++ Clone the repository 
+
+```
+git clone https://github.com/kiran74-ds/gojek_case_study.git
+```
+
 + Create Virtual Environmnet
 ```
 python3 -m venv venv
